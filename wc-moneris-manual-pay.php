@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Manual Moneris Payment UI (Direct API)
  * Description: Adds a custom slide-out panel for manual credit card processing. WARNING: Captures raw CC data.
  * Version: 2.3
- * Author: Your Name
+ * Author: spswoo
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
